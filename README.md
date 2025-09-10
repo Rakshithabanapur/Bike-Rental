@@ -45,3 +45,6 @@ Open Your browser put inside browser  http://localhost/bk/bikerental/admin
 USERNAME : admin
 PASSWORD : Test@12345
 
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
