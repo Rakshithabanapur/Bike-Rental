@@ -1,0 +1,12 @@
+.bike-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.bike-item img {
+    width: 150px;
+    height: auto;
+}
+.bike-item h3 {
+    margin-top: 0;
+}
