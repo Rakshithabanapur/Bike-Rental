@@ -17,12 +17,12 @@ User-friendly interface for interaction
 
 1. Clone this repository:
 
-# git clone https://github.com/your-username/bike-rental.git
+git clone https://github.com/your-username/bike-rental.git
 cd bike-rental
 
 2. Run the program:
 
-# Example for Python
+Example for Python
 python main.py
 
 # 📂 Project Structure
