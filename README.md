@@ -35,18 +35,13 @@ customer.py → Customer interaction handling
 
 README.md → Project documentation
 
-# For User :-
-
+# Passwords:-
+For user
 USERNAME : test@gmail.com
-
 PASSWORD : Test@12345
 
-
-# For Admin Panel
-
+For Admin Panel
 Open Your browser put inside browser  http://localhost/bk/bikerental/admin 
-
 USERNAME : admin
-
 PASSWORD : Test@12345
 
